@@ -1,22 +1,12 @@
 ### Hi there 👋
-To be updated!
+About me: I'm a Security Software Engineer with a strong passion for cryptography, reverse engineering, ethical hacking and forensics. I enjoy secure software development and solving complex challenges, and I'm passionate about network and secure communication protocols, especially in context of distributed industrial control systems and OT environments. 
 
-<!--
-GPG Public Key: TBA
-GPG Fingerprint: TBA
--->
+I'm interested in most topics related to Software Engineering and Cyber Security. 
 
-<!--
-**sirasjad/sirasjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PGP Public Key: [public-key-40AC0A40.asc](public-key-40AC0A40.asc) <br>
+PGP Fingerprint: F11A 95FA 3C32 3D02 CE0A 825B 9F8A 6E63 40AC 0A40
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials:
+LinkedIn: [linkedin.com/in/sirasjad](https://linkedin.com/in/sirasjad) <br>
+Twitter: [twitter.com/sirasjad](https://twitter.com/sirasjad) <br>
+Email: email@siratech.no 
