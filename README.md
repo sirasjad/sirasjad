@@ -1,5 +1,5 @@
 ### Hi there 👋
-About me: I'm a Security Software Engineer with a strong passion for cryptography, reverse engineering, ethical hacking and digital forensics. I'm fond of secure software development and I enjoy solving complex challenges. I'm passionate about network and secure communication protocols, especially in context of distributed industrial control systems and OT environments. 
+About me: I'm a Security Software Engineer with a strong passion for cryptography, reverse engineering, ethical hacking and digital forensics. I'm very fond of secure software development and I enjoy solving complex challenges. I'm passionate about network and secure communication protocols, especially in context of distributed industrial control systems and OT environments. 
 
 I'm interested in most topics related to Software Engineering and Cyber Security. 
 
